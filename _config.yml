@@ -1,0 +1,12 @@
+url: "https://notes.99000000.xyz"
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: "default"
+      toc: true
+
+# Optional. The default date format, used if none is specified in the tag.
+last-modified-at:
+    date-format: '%Y-%m-%d'
